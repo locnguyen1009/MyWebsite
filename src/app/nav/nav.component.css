@@ -1,0 +1,25 @@
+.navbar{
+  display: flex;
+  background-color: antiquewhite ;
+}
+.site-name{
+  padding: 10px 30px;
+  color: #212F3D;
+}
+.site-menu{
+  padding: 5px 30px;
+  margin-left: 200px;
+}
+.site-links{
+  font-size: 20px;
+  padding: 5px 30px;
+  margin-left: 800px;
+}
+a{
+  text-decoration: blue;
+  color: #212F3D;
+  margin: 5px 10px
+}
+h2{
+  font-size: 30px;
+}
